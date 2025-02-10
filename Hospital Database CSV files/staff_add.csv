@@ -1,0 +1,37 @@
+staff_add_id,address1,address2,city_id,co_id,address_st_dt,address_end_dt,staff_id
+1,Coolinda,,KK,KK,01/01/2000,01/01/2000,1
+2,5 West Gate,,NS,KD,01/01/2000,01/01/2000,2
+3,Suibh,Dunmore Rd,WD,WD,01/01/2000,01/01/2000,3
+4,Hollymount,Killiney,DUB,D,01/01/2000,01/01/2000,4
+5,Piermount,Rathcoole,DUB,D,01/01/2000,01/01/2000,5
+6,1 Avesbury,,KK,KK,01/01/2000,04/26/2005,6
+7,14 Avesbury,,KK,KK,04/27/2005,01/01/2000,6
+8,10 Marfield,Old Kells Rd,KK,KK,01/01/2000,01/01/2000,7
+9,Caislin,,TT,KK,01/01/2000,01/01/2000,8
+10,Castle St,,CC,KK,01/01/2000,01/01/2000,9
+11,Moonveen,,KD,KD,01/01/2000,01/01/2000,10
+12,23 Avesbury,,KK,KK,01/01/2000,01/01/2000,11
+13,21 Castletown Park,College Rd,KK,KK,01/01/2000,01/01/2000,12
+14,Maudlin Road,,KK,KK,01/01/2000,01/01/2000,13
+15,12 Woodfield,Tramore,WD,WD,01/01/2000,01/01/2000,14
+16,Templestown House,Freshford Rd,KK,KK,01/01/2000,01/01/2000,15
+17,Forestalstown,Kells Road,KK,KK,01/01/2000,01/01/2000,16
+18,Noonan Hall,,MW,C,01/01/2000,01/01/2000,17
+19,Shellinton,Tramore Rd,WD,WD,01/01/2000,01/01/2000,18
+20,Monintor,,TT,KK,01/01/2000,01/01/2000,19
+21,Kilfane,,TT,KK,01/01/2000,01/01/2000,20
+22,Butlerstown,,GM,KK,01/01/2000,01/01/2000,21
+23,Ballybog,,TT,KK,01/01/2000,01/01/2000,22
+24,Castle St,,CC,KK,01/01/2000,01/01/2000,23
+25,Gracedieu,,WD,WD,01/01/2000,01/01/2000,24
+26,12 Abbetfields,,KD,KD,01/01/2000,01/01/2000,25
+27,Tindall,Sion Rd,KK,KK,01/01/2000,01/01/2000,26
+28,Carbla,Sion Rd,KK,KK,01/01/2000,01/01/2000,27
+29,Curraghmore Drive,,KM,WD,01/01/2000,01/01/2000,28
+30,Atlantic View,West Rd,BM,MO,01/01/2000,01/01/2000,29
+31,10 College Rd,,KK,KK,01/01/2000,01/01/2000,30
+32,12 Gable Rd,,KK,KK,01/01/2000,01/01/2000,31
+33,Blissway,East Rd,KK,KK,01/01/2000,01/01/2000,32
+34,Bennetsbridge Rd,,KK,KK,01/01/2000,01/01/2000,33
+35,Clough Rd,,CC,KK,01/01/2000,01/01/2000,34
+36,Waterford Rd,,KK,KK,01/01/2000,01/01/2000,35
