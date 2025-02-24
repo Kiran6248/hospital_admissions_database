@@ -12,5 +12,6 @@ This is a data analysis project for Cenit College's Data analysis course. This p
 Hospital admission database is an data manupulation and extraction project which interacts with Hospital admission database and show the records of patients and employees.
 
 ## **Database Model**
-Microsoft SQL server management studio is used for the project 
+Microsoft SQL server management studio is used for the project.
+The schema for the project is developed like below.
 ![image](hospital_admissions_schema.png)
